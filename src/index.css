@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+#root {
+  @apply flex flex-col min-h-[100vh]
+}
+footer {
+  @apply mt-auto
+}

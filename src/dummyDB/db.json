@@ -1,0 +1,414 @@
+{
+  "books": [
+    {
+      "id": "b008",
+      "title": "The Smiling Guy",
+      "authorName": "Stephen Murphy",
+      "category": "Fantasy",
+      "ISBN": "9780307743655",
+      "createdAt": "30 October 2022, 11:45AM",
+      "modifiedAt": "5 March 2025, 1:0AM",
+      "isActive": true
+    },
+    {
+      "id": "b009",
+      "title": "Pride and Prejudice",
+      "authorName": "Jane Austen",
+      "category": "Novel",
+      "ISBN": "9780141439518",
+      "createdAt": "14 February 2023, 1:30PM",
+      "modifiedAt": "4 March 2025, 10:31PM",
+      "isActive": true
+    },
+    {
+      "id": "b010",
+      "title": "The Girl with the Dragon Tattoo",
+      "authorName": "Stieg Larsson",
+      "category": "Thriller",
+      "ISBN": "9780307949486",
+      "createdAt": "7 July 2022, 5:20PM",
+      "modifiedAt": "4 March 2025, 10:32PM",
+      "isActive": true
+    },
+    {
+      "id": "b011",
+      "title": "The Hobbit and the Gang ",
+      "authorName": "J.R.R. Martin",
+      "category": "Fantasy",
+      "ISBN": "9780547928227",
+      "createdAt": "22 September 2022, 3:40PM",
+      "modifiedAt": "4 March 2025, 11:9PM",
+      "isActive": false
+    },
+    {
+      "id": "b012",
+      "title": "In Cold Blood",
+      "authorName": "Truman Capote",
+      "category": "Mystery",
+      "ISBN": "9780679745587",
+      "createdAt": "11 November 2022, 9:55AM",
+      "modifiedAt": "4 March 2025, 8:55PM",
+      "isActive": false
+    },
+    {
+      "id": "b013",
+      "title": "Sapiens: A Brief History of Humankind",
+      "authorName": "Yuval Noah Harari",
+      "category": "History",
+      "ISBN": "9780062316097",
+      "createdAt": "28 January 2023, 12:15PM",
+      "modifiedAt": "4 March 2025, 8:55PM",
+      "isActive": false
+    },
+    {
+      "id": "b014",
+      "title": "Me Talk Pretty One Day",
+      "authorName": "David Sedaris",
+      "category": "Humor",
+      "ISBN": "9780316776967",
+      "createdAt": "19 March 2023, 4:05PM",
+      "modifiedAt": "21 March 2023, 9:30AM",
+      "isActive": false
+    },
+    {
+      "id": "b015",
+      "title": "The Road",
+      "authorName": "Cormac McCarthy",
+      "category": "Fiction",
+      "ISBN": "9780307387899",
+      "createdAt": "5 May 2023, 2:10PM",
+      "modifiedAt": "4 March 2025, 8:55PM",
+      "isActive": false
+    },
+    {
+      "id": "b016",
+      "title": "Dracula",
+      "authorName": "Bram Stoker",
+      "category": "Horror",
+      "ISBN": "9780486411095",
+      "createdAt": "31 October 2022, 7:25PM",
+      "modifiedAt": "4 March 2025, 9:9PM",
+      "isActive": false
+    },
+    {
+      "id": "b017",
+      "title": "To Kill a Mockingbird",
+      "authorName": "Harper Lee",
+      "category": "Novel",
+      "ISBN": "9780060935467",
+      "createdAt": "17 April 2022, 11:20AM",
+      "modifiedAt": "4 March 2025, 9:9PM",
+      "isActive": false
+    },
+    {
+      "id": "b018",
+      "title": "Gone Girl",
+      "authorName": "Gillian Flynn",
+      "category": "Thriller",
+      "ISBN": "9780307588371",
+      "createdAt": "8 June 2022, 1:40PM",
+      "modifiedAt": "10 June 2022, 8:55AM",
+      "isActive": false
+    },
+    {
+      "id": "b019",
+      "title": "The Name of the Wind",
+      "authorName": "Patrick Rothfuss",
+      "category": "Fantasy",
+      "ISBN": "9780756404741",
+      "createdAt": "29 August 2022, 6:30PM",
+      "modifiedAt": "4 March 2025, 9:9PM",
+      "isActive": false
+    },
+    {
+      "id": "b020",
+      "title": "And Then There Were None",
+      "authorName": "Agatha Christie",
+      "category": "Mystery",
+      "ISBN": "9780062073488",
+      "createdAt": "15 October 2022, 9:20AM",
+      "modifiedAt": "4 March 2025, 9:11PM",
+      "isActive": false
+    },
+    {
+      "id": "b021",
+      "title": "The Diary of a Young Girl",
+      "authorName": "Anne Frank",
+      "category": "History",
+      "ISBN": "9780553577129",
+      "createdAt": "12 December 2022, 3:05PM",
+      "modifiedAt": "4 March 2025, 9:11PM",
+      "isActive": false
+    },
+    {
+      "id": "b022",
+      "title": "Bossypants TEST",
+      "authorName": "Tina Faradei",
+      "category": "Mystery",
+      "ISBN": "9780316056875",
+      "createdAt": "24 February 2023, 5:50PM",
+      "modifiedAt": "4 March 2025, 10:50PM",
+      "isActive": false
+    },
+    {
+      "id": "b025",
+      "title": "The Girl on the Train",
+      "authorName": "Paula Hawkins",
+      "category": "Thriller",
+      "ISBN": "9781594634024",
+      "createdAt": "4 September 2023, 10:15AM",
+      "modifiedAt": "7 September 2023, 5:40PM",
+      "isActive": false
+    },
+    {
+      "id": "b027",
+      "title": "The Woman in White",
+      "authorName": "Wilkie Collins",
+      "category": "Mystery",
+      "ISBN": "9780141439617",
+      "createdAt": "7 January 2023, 2:35PM",
+      "modifiedAt": "4 March 2025, 9:19PM",
+      "isActive": false
+    },
+    {
+      "id": "b028",
+      "title": "Guns, Germs, and Steel",
+      "authorName": "Jared Diamond",
+      "category": "History",
+      "ISBN": "9780393317558",
+      "createdAt": "16 March 2023, 6:25PM",
+      "modifiedAt": "4 March 2025, 9:19PM",
+      "isActive": false
+    },
+    {
+      "id": "b029",
+      "title": "Yes Please",
+      "authorName": "Amy Poehler",
+      "category": "Humor",
+      "ISBN": "9780062268341",
+      "createdAt": "30 April 2023, 11:05AM",
+      "modifiedAt": "3 May 2023, 7:30PM",
+      "isActive": false
+    },
+    {
+      "id": "b030",
+      "title": "The Kite Runner",
+      "authorName": "Khaled Hosseini",
+      "category": "Fiction",
+      "ISBN": "9781594631931",
+      "createdAt": "22 June 2023, 3:55PM",
+      "modifiedAt": "4 March 2025, 9:31PM",
+      "isActive": true
+    },
+    {
+      "id": "b031",
+      "title": "House of Leaves",
+      "authorName": "Mark Z. Danielewski",
+      "category": "Horror",
+      "ISBN": "9780375703768",
+      "createdAt": "15 August 2023, 8:45AM",
+      "modifiedAt": "4 March 2025, 9:30PM",
+      "isActive": false
+    },
+    {
+      "id": "b032",
+      "title": "The Handmaid's Tale",
+      "authorName": "Margaret Atwood",
+      "category": "Novel",
+      "ISBN": "9780385490818",
+      "createdAt": "27 October 2023, 1:25PM",
+      "modifiedAt": "30 October 2023, 8:50AM",
+      "isActive": true
+    },
+    {
+      "id": "b033",
+      "title": "Before I Go to Sleep",
+      "authorName": "S.J. Watson",
+      "category": "Thriller",
+      "ISBN": "9780062060556",
+      "createdAt": "9 December 2023, 5:15PM",
+      "modifiedAt": "12 December 2023, 12:40PM",
+      "isActive": false
+    },
+    {
+      "id": "b034",
+      "title": "The Eye of the World",
+      "authorName": "Robert Jordan",
+      "category": "Fantasy",
+      "ISBN": "9780812511819",
+      "createdAt": "21 January 2024, 10:35AM",
+      "modifiedAt": "24 January 2024, 6:05PM",
+      "isActive": true
+    },
+    {
+      "id": "b035",
+      "title": "The Hound of the Baskervilles",
+      "authorName": "Arthur Conan Doyle",
+      "category": "Mystery",
+      "ISBN": "9780486282145",
+      "createdAt": "3 March 2024, 3:25PM",
+      "modifiedAt": "6 March 2024, 9:50AM",
+      "isActive": true
+    },
+    {
+      "id": "b036",
+      "title": "1776",
+      "authorName": "David McCullough",
+      "category": "History",
+      "ISBN": "9780743226721",
+      "createdAt": "15 May 2024, 8:15AM",
+      "modifiedAt": "18 May 2024, 4:40PM",
+      "isActive": true
+    },
+    {
+      "id": "b037",
+      "title": "Let's Pretend This Never Happened",
+      "authorName": "Jenny Lawson",
+      "category": "Humor",
+      "ISBN": "9780425261019",
+      "createdAt": "27 July 2024, 1:05PM",
+      "modifiedAt": "30 July 2024, 9:30AM",
+      "isActive": false
+    },
+    {
+      "id": "b038",
+      "title": "The Road Less Traveled",
+      "authorName": "M. Scott Peck",
+      "category": "Fiction",
+      "ISBN": "9780743243155",
+      "createdAt": "8 September 2024, 5:55PM",
+      "modifiedAt": "11 September 2024, 12:20PM",
+      "isActive": true
+    },
+    {
+      "id": "b039",
+      "title": "Bird Box",
+      "authorName": "Josh Malerman",
+      "category": "Horror",
+      "ISBN": "9780062259660",
+      "createdAt": "20 October 2024, 10:45AM",
+      "modifiedAt": "23 October 2024, 7:10PM",
+      "isActive": true
+    },
+    {
+      "id": "b040",
+      "title": "Beloved",
+      "authorName": "Toni Morrison",
+      "category": "Novel",
+      "ISBN": "9781400033416",
+      "createdAt": "2 December 2023, 3:35PM",
+      "modifiedAt": "5 December 2023, 11:00AM",
+      "isActive": true
+    },
+    {
+      "id": "b041",
+      "title": "Sharp Objects",
+      "authorName": "Gillian Flynn",
+      "category": "Thriller",
+      "ISBN": "9780307341556",
+      "createdAt": "14 February 2024, 8:25AM",
+      "modifiedAt": "17 February 2024, 5:50PM",
+      "isActive": false
+    },
+    {
+      "id": "b042",
+      "title": "The Lies of Locke Lamora",
+      "authorName": "Scott Lynch",
+      "category": "Fantasy",
+      "ISBN": "9780553588941",
+      "createdAt": "28 March 2024, 1:15PM",
+      "modifiedAt": "31 March 2024, 9:40AM",
+      "isActive": true
+    },
+    {
+      "id": "b043",
+      "title": "In the Woods",
+      "authorName": "Tana French",
+      "category": "Mystery",
+      "ISBN": "9780143113492",
+      "createdAt": "9 June 2024, 6:05PM",
+      "modifiedAt": "12 June 2024, 12:30PM",
+      "isActive": true
+    },
+    {
+      "id": "b044",
+      "title": "Team of Rivals",
+      "authorName": "Doris Kearns Goodwin",
+      "category": "History",
+      "ISBN": "9780743270755",
+      "createdAt": "21 August 2024, 10:55AM",
+      "modifiedAt": "24 August 2024, 7:20PM",
+      "isActive": true
+    },
+    {
+      "id": "b045",
+      "title": "Is Everyone Hanging Out Without Me?",
+      "authorName": "Mindy Kaling",
+      "category": "Humor",
+      "ISBN": "9780307886279",
+      "createdAt": "3 October 2023, 3:45PM",
+      "modifiedAt": "6 October 2023, 11:10AM",
+      "isActive": false
+    },
+    {
+      "id": "b046",
+      "title": "The Goldfinch",
+      "authorName": "Donna Tartt",
+      "category": "Fiction",
+      "ISBN": "9780316055437",
+      "createdAt": "15 December 2023, 8:35AM",
+      "modifiedAt": "18 December 2023, 5:00PM",
+      "isActive": true
+    },
+    {
+      "id": "b047",
+      "title": "Misery",
+      "authorName": "Stephen King",
+      "category": "Horror",
+      "ISBN": "9781501156748",
+      "createdAt": "27 January 2024, 1:55PM",
+      "modifiedAt": "30 January 2024, 10:20AM",
+      "isActive": true
+    },
+    {
+      "id": "b048",
+      "title": "1984",
+      "authorName": "George Orwell",
+      "category": "Novel",
+      "ISBN": "9780451524935",
+      "createdAt": "10 April 2024, 6:45PM",
+      "modifiedAt": "13 April 2024, 2:10PM",
+      "isActive": true
+    },
+    {
+      "id": "b049",
+      "title": "The Woman in the Window",
+      "authorName": "A.J. Finn",
+      "category": "Thriller",
+      "ISBN": "9780062678416",
+      "createdAt": "22 July 2024, 11:35AM",
+      "modifiedAt": "25 July 2024, 8:00PM",
+      "isActive": false
+    },
+    {
+      "id": "b050",
+      "title": "Mistborn: The Final Empire EDIT",
+      "authorName": "Brandon Sanderson",
+      "category": "Fiction",
+      "ISBN": "9780765350381",
+      "createdAt": "4 September 2023, 4:25PM",
+      "modifiedAt": "4 March 2025, 11:45PM",
+      "isActive": true
+    },
+    {
+      "id": "e92d4e9a-2ece-4a14-bfc9-5ec2ea555af4",
+      "title": "12 rules of life",
+      "authorName": "Jordan Peterson",
+      "category": "Horror",
+      "ISBN": "1111111111111",
+      "createdAt": "5 March 2025, 1:0AM",
+      "modifiedAt": "5 March 2025, 1:1AM",
+      "isActive": false
+    }
+  ]
+}
